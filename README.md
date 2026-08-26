@@ -299,49 +299,7 @@ Spam-Email-Classifier-NLP/
 | `requirements.txt`                | Required Python libraries              |
 | `README.md`                       | Project documentation                  |
 
----
 
-## ▶️ How to Run the Project
-
-### Option 1 — Google Colab
-
-1. Open the `.ipynb` file.
-2. Open it using Google Colab.
-3. Run the cells from top to bottom.
-4. Load the dataset.
-5. Train the model.
-6. Evaluate the model.
-7. Enter custom messages for prediction.
-
-### Option 2 — Local Computer
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/Spam-Email-Classifier-NLP.git
-```
-
-Go into the project directory:
-
-```bash
-cd Spam-Email-Classifier-NLP
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Open the notebook:
-
-```bash
-jupyter notebook
-```
-
-Run the notebook cells sequentially.
-
----
 
 ## 🚀 Future Improvements
 
